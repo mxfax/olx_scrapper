@@ -1,0 +1,6 @@
+beautifulsoup4
+curl_cffi
+pandas
+openpyxl
+colorama
+lxml
