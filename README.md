@@ -23,7 +23,7 @@ Usage
 
 Run:
 
-python olx_scrapper.py
+python new_scrapper.py
 
 Enter your search query and follow the prompts.
 
